@@ -15,3 +15,7 @@ Open `http://localhost:8000/`.
 See the prompt files in this folder:
 - `PROMPT_ONE_SHOT.md`
 - `PROMPT_STUDY.md`
+
+## Demo
+
+[Watch the demo](assets/demo.mp4)
